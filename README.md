@@ -23,7 +23,7 @@ BotSurgeon Basic is a single Bash script that detects and blocks malicious bots,
 - Safety rails: per-run block cap, cooldown/dedup, whitelist (incl. CIDR), self-watchdog timeout, one-command disable, and a clean `--uninstall`
 - Zero dependencies beyond standard tools (bash, awk, grep). `dig` (bind-utils / dnsutils) is recommended so legitimate crawlers can be verified.
 
-> Want AI forensics, behavioural analysis, GeoIP/AbuseIPDB, notifications, and a full WHM dashboard? Upgrade to **[BotSurgeon Pro](https://www.steadfasttools.com/products/botsurgeon-pro)**.
+> Want forensics, behavioral analysis, GeoIP/AbuseIPDB, notifications, and a full WHM dashboard? Upgrade to **[BotSurgeon Pro](https://www.steadfasttools.com/products/botsurgeon-pro)**.
 
 ---
 
