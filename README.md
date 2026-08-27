@@ -66,7 +66,7 @@ Combined is the default for Apache (`LogFormat "%h %l %u %t \"%r\" %>s %O \"%{Re
 1. Extract the archive to `/usr/local/bin/`:
 
    ```bash
-   tar -xzf botsurgeon-basic-1.0.7.tar.gz -C /usr/local/bin/
+   tar -xzf botsurgeon-basic-1.0.7.tar.gz -C /usr/local/bin/ --strip-components=1
    cd /usr/local/bin/
    ```
 
